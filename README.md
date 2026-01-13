@@ -34,7 +34,7 @@ You can confirm your versions with:
 ### Cloning the Repository
 
 Run the following command in your terminal, then navigate into the project directory:  
-`git clone https://github.com/hasnaindar8/digital-queue-management-be`  
+`git clone https://github.com/lewr912/digital-queue-management-be.git`  
 `cd digital-queue-management-be`
 
 ---
@@ -160,3 +160,4 @@ Recommended OS: MacOS 26 Tahoe, Windows 10/11, Linux Ubuntu 24.04.3 LTS
 
 Acknowledgments
 Northcoders
+
